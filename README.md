@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Sakthi28paraman
 - 👀 I’m interested in Coding,Hockey
 - 🌱 I’m currently learning B.Tech Artificial Intelligence and Data Science
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me sakthiparameswaran0128@gmail.com
 
 <!---
